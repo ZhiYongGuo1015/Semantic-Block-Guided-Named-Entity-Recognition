@@ -1,0 +1,6 @@
+torch>=1.13
+transformers>=4.25
+numpy>=1.21
+scipy>=1.8
+scikit-learn>=1.0
+pytorch-crf>=0.7
